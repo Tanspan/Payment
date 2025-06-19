@@ -1,4 +1,4 @@
-pip install streamlit pandas matplotlib seaborn scikit-learn joblib
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
